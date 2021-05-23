@@ -43,8 +43,8 @@ export class SettingsComponent implements AfterViewInit {
         this.subscription.unsubscribe();
     }
     updateLanguage($event: any) {
+        //this.translate.setDefaultLang('ru');
         this.translate.use('ru');
-        
         // this.codes = this.langs[Number($event.target.value)].slice(2);
         console.log(1112, this.codes)
     }

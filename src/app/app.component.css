@@ -23,6 +23,15 @@
     height: 22px;
     width: 22px;
 }
+.inline-icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+.tui-indexed.inline-icon {
+    margin-top: -4px;
+}
 .pane .tui-editor-contents {
     height: 100%;
     overflow: hidden;

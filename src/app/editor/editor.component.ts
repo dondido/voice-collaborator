@@ -1,5 +1,6 @@
 import { Component, OnInit, ElementRef, ViewChild } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import { TranslateService } from '@ngx-translate/core';
 import { Subject } from 'rxjs';
 import { debounceTime, distinctUntilChanged } from 'rxjs/operators';
 import { DocumentService } from '../document.service';
@@ -8,43 +9,6 @@ import { EditorService } from '../editor.service';
 declare let toastui: any;
 
 const SAVE_TIMEOUT_MS = 400;
-
-const EDITOR_OPTIONS = {
-    previewStyle: '', // leave empty to disable preview tab
-    height: '100vh',
-    toolbarItems: [
-        // Using Option: Customize the last button
-        {
-            type: 'button',
-            options: {
-                command: 'Strike',
-                className: 'tui-indexed',
-                tooltip: `Index text`,
-                state: 'strike',
-            }
-        },
-        'heading',
-        'bold',
-        'italic',
-        'divider',
-        'hr',
-        'quote',
-        'divider',
-        'ul',
-        'ol',
-        'task',
-        'indent',
-        'outdent',
-        'divider',
-        'table',
-        'image',
-        'link',
-        'divider',
-        'code',
-        'codeblock',
-        'divider',
-    ],
-};
 
 @Component({
     selector: 'app-editor',
@@ -61,6 +25,7 @@ export class EditorComponent implements OnInit {
         private route: ActivatedRoute,
         private editorService: EditorService,
         private documentService: DocumentService,
+        private translate: TranslateService,
     ) { }
     ngOnInit(): void {
         this.id = Number(this.route.snapshot.paramMap.get('id'));
@@ -70,6 +35,44 @@ export class EditorComponent implements OnInit {
     }
     ngOnDestroy() {
         this.subscription$.unsubscribe();
+    }
+    setEditorOptions() {
+        return {
+            previewStyle: '', // leave empty to disable preview tab
+            height: '100vh',
+            toolbarItems: [
+                // Using Option: Customize the last button
+                {
+                    type: 'button',
+                    options: {
+                        command: 'Strike',
+                        className: 'tui-indexed',
+                        state: 'strike',
+                        tooltip: this.translate.instant('_index_text'),
+                    }
+                },
+                'heading',
+                'bold',
+                'italic',
+                'divider',
+                'hr',
+                'quote',
+                'divider',
+                'ul',
+                'ol',
+                'task',
+                'indent',
+                'outdent',
+                'divider',
+                'table',
+                'image',
+                'link',
+                'divider',
+                'code',
+                'codeblock',
+                'divider',
+            ],
+        }
     }
     initEditor = (iso: string): void => {
         if (iso) {
@@ -85,7 +88,7 @@ export class EditorComponent implements OnInit {
                 events: {
                     change: () => this.content.next(this.editor.getMarkdown())
                 },
-                ...EDITOR_OPTIONS
+                ...this.setEditorOptions()
             });
             this.content.next(initialValue);
             this.subscription$ = this.content.pipe(

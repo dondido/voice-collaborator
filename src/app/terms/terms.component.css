@@ -4,8 +4,8 @@
     height: 100vh;
 }
 .terms {
-    height: 100vh;
     overflow: auto;
+    padding: 0 1em 2ex;
 }
 .document-updated {
     max-width: 800px;

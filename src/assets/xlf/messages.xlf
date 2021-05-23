@@ -20,7 +20,7 @@
       <trans-unit id="_home" datatype="html">
         <source>Home</source>
       </trans-unit>
-      <trans-unit id="_termsandconditions" datatype="html">
+      <trans-unit id="_terms_and_conditions" datatype="html">
         <source>Terms and conditions</source>
       </trans-unit>
       <trans-unit id="_p1" datatype="html">
@@ -85,6 +85,42 @@
       </trans-unit>
       <trans-unit id="_recent_documents" datatype="html">
         <source>Recent documents</source>
+      </trans-unit>
+      <trans-unit id="_language" datatype="html">
+        <source>Language</source>
+      </trans-unit>
+      <trans-unit id="_wake_up_tags" datatype="html">
+        <source>Wake up tags</source>
+      </trans-unit>
+      <trans-unit id="_how_to_get_started" datatype="html">
+        <source>How to get started</source>
+      </trans-unit>
+      <trans-unit id="_go_to_settings" datatype="html">
+        <source>Go to Settings</source>
+      </trans-unit>
+      <trans-unit id="_add_wake_up_tags" datatype="html">
+        <source>Add wake up tags such as 'OK' or 'Alright'</source>
+      </trans-unit>
+      <trans-unit id="_go_to_home" datatype="html">
+        <source>Go to Home</source>
+      </trans-unit>
+       <trans-unit id="_select_create_a_new_document" datatype="html">
+        <source>Select 'Create a new document'</source>
+      </trans-unit>
+      <trans-unit id="_design_your_cheat_sheet" datatype="html">
+        <source>Design your cheat sheet in the markdown/wysiwyg editor</source>
+      </trans-unit>
+        <trans-unit id="_highlight_the_text" datatype="html">
+        <source>Highlight the text that needs to searchable and select 'Index text'</source>
+      </trans-unit>
+      <trans-unit id="_go_to_preview" datatype="html">
+        <source>Go to Preview</source>
+      </trans-unit>
+      <trans-unit id="_voice_search_can_be_activated" datatype="html">
+        <source>Voice search can be activated at any time by saying a wake phrase followed by descriptive terms used to find relevant information</source>
+      </trans-unit>
+      <trans-unit id="_tip_to_search_by_voice" datatype="html">
+        <source>Tip: To search by voice you will have to index some content. Go to <div class="edit-icon inline-icon"></div>Edit, select the desired text and then tap the <div class="tui-indexed inline-icon"></div> 'Index Text' button.</source>
       </trans-unit>
     </body>
   </file>
