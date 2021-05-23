@@ -1,0 +1,12 @@
+<div #viewer class="viewer"></div>
+<ng-container [ngSwitch]="output">
+    <div *ngSwitchCase="'index'" class="tip">
+        Tip: To search by voice you will have to index some content. Go to <div class="edit-icon inline-icon"></div>Edit, select the desired text and then tap the <div class="tui-indexed inline-icon"></div> 'Insert Text' icon.
+    </div>
+    <div *ngSwitchCase="'muted'" class="tip">...</div>
+    <div *ngSwitchDefault class="output" [class.active]="activeMicClassName" >{{ transcript }}</div>
+</ng-container>
+<app-nav>
+    <li class="nav-item"><a class="nav-link edit-icon" routerLink="/edit/{{id}}" title="Edit Document" translate>_edit</a></li>
+</app-nav>
+

@@ -1,0 +1,17 @@
+<h1 class="page-title" translate>_settings</h1>
+<h2 class="section-title" translate>_wake_up_tags</h2>
+<div class="tag-area" translate>
+    <textarea #textarea></textarea>
+</div>
+<h2 class="section-title" translate>_language</h2>
+<div class="lang-area">
+    <select class="select" [value]="lang" (change)="updateLanguage($event)">
+        <option *ngFor="let l of langs; let i = index" [selected]="l[0] === lang" [disabled]="!l[1]"  [value]="i">{{l[0]}}</option>
+    </select>
+    <select class="select" [value]="lcid" *ngIf="codes && codes[1]" (change)="updateLcid($event)">
+        <option *ngFor="let code of codes" [value]="code[0]" [selected]="code[0] === lcid">{{code[1]}}</option>
+    </select>
+</div>
+<app-nav>
+    <li class="nav-item"><a class="nav-link info-icon" routerLink="/info" title="Info" translate>_info</a></li>
+</app-nav>

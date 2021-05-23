@@ -1,0 +1,14 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.terms {
+    height: 100vh;
+    overflow: auto;
+}
+.document-updated {
+    max-width: 800px;
+    width: 100%;
+    margin: 24px auto;
+}

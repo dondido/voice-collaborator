@@ -1,0 +1,87 @@
+.page-title,
+.section-title {
+    font-size: 20px;
+    margin: 20px auto 10px;
+    max-width: 800px;
+    padding: 5px;
+    text-align: center;
+    color: #666;
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+}
+.section-title {
+    font-size: 18px;
+}
+.page-body {
+    max-width: 800px;
+    margin: auto;
+}
+.tui-indexed {
+    background-image: url('/assets/images/manage_search.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 22px 22px;
+    height: 22px;
+    width: 22px;
+}
+.pane .tui-editor-contents {
+    height: 100%;
+    overflow: hidden;
+}
+.nav-item {
+    flex: 1;
+    padding: 0 18px 4px;
+}
+.nav-link {
+    display: block;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-position: center 6px;
+    background-size: 20px 20px;
+    text-align: center;
+    padding-top: 28px;
+    color: #666;
+}
+.nav-link:hover {
+    color: #666;
+    text-decoration: none;
+}
+.home-icon {
+    background-image: url('/assets/images/home.svg');
+}
+.settings-icon {
+    background-image: url('/assets/images/settings.svg');
+}
+.info-icon {
+    background-image: url('/assets/images/info.svg');
+}
+.policy-icon {
+    background-image: url('/assets/images/policy.svg');
+}
+.edit-icon {
+    background-image: url('/assets/images/edit_note.svg');
+    background-size: 24px 24px;
+}
+.tui-md-strike,
+.tui-editor-contents del {
+    color: #222;
+    text-decoration: underline;
+}
+del {
+    transition: background-color 1s ease 1s;
+    background-color: rgba(255, 240, 110, 0);
+}
+.target {
+    background-color: rgba(255, 240, 110, 1);
+}
+.nav {
+    width: 100%;
+    border-top: 1px solid rgba(0, 0, 0, .2);
+    background: white;
+}
+.nav-items {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly
+}
