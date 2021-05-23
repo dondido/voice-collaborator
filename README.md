@@ -4,7 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Synopsis
 
-Angular integration with Toast UI Editor (with both Markdown / WYSIWYG implementation). NGX-Translate internationalization library is used to define translations for the rich text editing tool content in different languages and switch between them easily.
+This an Angular integration with Toast UI Editor (with both Markdown / WYSIWYG implementation). NGX-Translate internationalization library is used to define translations for the app content in different languages and switch between them easily.
+
+## Translation
+
+It uses xlf-google-translate to translate the manually created xlf file with google translate. The translated file is than converted to JSON using the following online coversion tool http://converter.webtranslateit.com/.
+
 
 ## Development server
 
