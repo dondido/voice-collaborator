@@ -44,7 +44,7 @@ export class SettingsComponent implements AfterViewInit {
         private translate: TranslateService,
     ) { }
     ngOnInit(): void {
-        this.langsService.getData('assets/json/langs.json')
+        this.langsService.getData('./assets/json/langs.json')
             .subscribe(this.assignLanguage);
     }
     ngAfterViewInit(): void {
