@@ -41,7 +41,6 @@
                 }
               ],
               "baseHref": "/voice-collaborator/",
-              "deployUrl": "/voice-collaborator/",
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,

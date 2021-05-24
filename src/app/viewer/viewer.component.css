@@ -17,7 +17,7 @@
     color: #db0000;
 }
 .output:before {
-    content: url('/^.assets/images/mic.svg');
+    content: url('^.assets/images/mic.svg');
     display: block;
     float: right;
     width: 20px;
