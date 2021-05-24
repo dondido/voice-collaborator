@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "baseHref": "https://github.com/dondido/voice-collaborator/",
+            "baseHref": "https://dondido.github.io/voice-collaborator/",
             "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
