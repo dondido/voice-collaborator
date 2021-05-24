@@ -13,7 +13,6 @@ import { NavComponent } from './nav/nav.component';
 import { SettingsComponent } from './settings/settings.component';
 
 import { ScriptService } from './script.service';
-import { LangsService } from './langs.service';
 import { InfoComponent } from './info/info.component';
 import { TermsComponent } from './terms/terms.component';
 
@@ -47,5 +46,5 @@ export class AppModule {}
 
 // required for AOT compilation
 export function HttpLoaderFactory(http: HttpClient): TranslateHttpLoader {
-    return new TranslateHttpLoader(http);
+    return new TranslateHttpLoader(http, `${document.baseURI}assets/i18n/`);
 }
