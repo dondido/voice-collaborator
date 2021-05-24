@@ -357,7 +357,7 @@ class SettingsComponent {
         };
     }
     ngOnInit() {
-        this.langsService.getData('assets/json/langs.json')
+        this.langsService.getData('./assets/json/langs.json')
             .subscribe(this.assignLanguage);
     }
     ngAfterViewInit() {
