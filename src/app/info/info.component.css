@@ -39,26 +39,26 @@
     background-color: #777;
 }
 .settings-step {
-    background-image: url('/assets/images/settings.svg');
+    background-image: url('/^.assets/images/settings.svg');
 }
 .tags-step {
-    background-image: url('/assets/images/new-tag.svg');
+    background-image: url('/^.assets/images/new-tag.svg');
 }
 .home-step {
-    background-image: url('/assets/images/home.svg');
+    background-image: url('/^.assets/images/home.svg');
 }
 .new-document-step {
-    background-image: url('/assets/images/post_add.svg');
+    background-image: url('/^.assets/images/post_add.svg');
 }
 .edit-step {
-    background-image: url('/assets/images/wysiwyg.svg');
+    background-image: url('/^.assets/images/wysiwyg.svg');
 }
 .index-step {
-    background-image: url('/assets/images/manage_search.svg');
+    background-image: url('/^.assets/images/manage_search.svg');
 }
 .preview-step {
-    background-image: url('/assets/images/find-in-page.svg');
+    background-image: url('/^.assets/images/find-in-page.svg');
 }
 .search-step {
-    background-image: url('/assets/images/record-voice-over.svg');
+    background-image: url('/^.assets/images/record-voice-over.svg');
 }
