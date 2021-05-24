@@ -4,8 +4,9 @@ import { TranslateService } from '@ngx-translate/core';
 import { SettingsService } from '../settings.service';
 import { LangsService } from '../langs.service';
 
-
 declare let Tagify: any;
+
+type Lang = [string, number, ...string[][]];
 
 @Component({
     selector: 'app-settings',
@@ -15,24 +16,36 @@ declare let Tagify: any;
 export class SettingsComponent implements AfterViewInit {
     @ViewChild('textarea') private $textarea!: ElementRef;
     subscription: any;
-    langs: Array<String[]> = [];
-    codes: Array<String[]> = [];
-    lang = 'English';
-    lcid = localStorage.getItem('lcid') ?? location.href.split('/')[0];
-    private lcids = ['en-us', 'ru-ru'];
-    private updateCodes = ([_, __, ...codes]: [string, number | undefined, String[]]) => codes.some(([code]) => code === this.lcid);
+    langs: Lang[] = [];
+    codes: string[][] = [];
+    languageName: string | undefined = 'English';
+    lcid = localStorage.getItem('lcid') ?? navigator.language;
+    private assignLanguage = (languages: Lang[]): void => {
+        const removeDisabled = ([__, disabled]: Lang): boolean => Boolean(disabled);
+        const langs = languages.filter(removeDisabled);
+        const extractLang = () : Lang | undefined => {
+            const iso6391 = this.lcid.slice(0, 2);
+            const matchLang = ([_, __, entry]: Lang): boolean => entry[0].startsWith(iso6391);
+            return langs.find(matchLang);
+        };
+        let lang = extractLang();
+        if (lang === undefined) {
+            this.lcid = 'en-US';
+            lang = extractLang();
+        }
+        const [languageName, _, ...codes] = lang || [];
+        this.codes = codes;
+        this.languageName = languageName;
+        this.langs = langs;
+    }
     constructor(
         private settingsService: SettingsService,
         private langsService: LangsService,
-        private translate: TranslateService
+        private translate: TranslateService,
     ) { }
     ngOnInit(): void {
         this.langsService.getData('assets/json/langs.json')
-            .subscribe(langs => {
-                this.langs = langs;
-                this.codes = langs.find(this.updateCodes)?.slice(2);
-                console.log(1112, this.lcid, this.codes)
-            });
+            .subscribe(this.assignLanguage);
     }
     ngAfterViewInit(): void {
         new Tagify(this.$textarea.nativeElement).addTags(this.settingsService.tags);
@@ -43,18 +56,15 @@ export class SettingsComponent implements AfterViewInit {
         this.subscription.unsubscribe();
     }
     updateLanguage($event: any) {
-        //this.translate.setDefaultLang('ru');
-        this.translate.use('ru');
-        // this.codes = this.langs[Number($event.target.value)].slice(2);
-        console.log(1112, this.codes)
+        const [languageName, idx, ...codes] = this.langs[Number($event.target.value)];
+        this.languageName = languageName;
+        this.codes = codes;
+        this.lcid = codes[idx - 1][0];
+        this.translate.use(this.lcid.slice(0, 2));
+        localStorage.setItem('lcid', this.lcid);
     }
     updateLcid($event: any) {
-        const iso6391 = $event.target.value.slice(0, 2);
-        const pathname = `/${this.lcids.find(lcid => lcid.startsWith(iso6391))}/settings`;
-        if (pathname !== location.pathname) {
-            localStorage.setItem('lang', $event.target.value);
-            location.pathname = pathname;
-        }
-        console.log($event.target.value);
+        this.lcid = $event.target.value;
+        localStorage.setItem('lcid', this.lcid);
     }
 }

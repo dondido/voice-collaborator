@@ -5,7 +5,7 @@
     ["Català", 0, ["ca-ES"]],
     ["Čeština", 0, ["cs-CZ"]],
     ["Deutsch", 0, ["de-DE"]],
-    ["English", 1,
+    ["English", 7,
         ["en-AU", "Australia"],
         ["en-CA", "Canada"],
         ["en-IN", "India"],
@@ -14,7 +14,7 @@
         ["en-GB", "United Kingdom"],
         ["en-US", "United States"]
     ],
-    ["Español", 1,
+    ["Español", 8,
         ["es-AR", "Argentina"],
         ["es-BO", "Bolivia"],
         ["es-CL", "Chile"],

@@ -5,8 +5,8 @@
 </div>
 <h2 class="section-title" translate>_language</h2>
 <div class="lang-area">
-    <select class="select" [value]="lang" (change)="updateLanguage($event)">
-        <option *ngFor="let l of langs; let i = index" [selected]="l[0] === lang" [disabled]="!l[1]"  [value]="i">{{l[0]}}</option>
+    <select class="select" [value]="languageName" (change)="updateLanguage($event)">
+        <option *ngFor="let l of langs; let i = index" [selected]="l[0] === languageName" [disabled]="!l[1]"  [value]="i">{{l[0]}}</option>
     </select>
     <select class="select" [value]="lcid" *ngIf="codes && codes[1]" (change)="updateLcid($event)">
         <option *ngFor="let code of codes" [value]="code[0]" [selected]="code[0] === lcid">{{code[1]}}</option>
