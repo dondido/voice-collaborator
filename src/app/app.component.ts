@@ -9,6 +9,6 @@ import { TranslateService } from '@ngx-translate/core';
 })
 export class AppComponent {
     constructor(translate: TranslateService) {
-        translate.setDefaultLang('en');
+        translate.setDefaultLang(localStorage.getItem('lcid')?.slice(0, 2) || 'en');
     }
 }
