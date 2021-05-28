@@ -5,6 +5,9 @@
       <trans-unit id="_info" datatype="html">
         <source>Info</source>
       </trans-unit>
+      <trans-unit id="_edit" datatype="html">
+        <source>Edit</source>
+      </trans-unit>
       <trans-unit id="_settings" datatype="html">
         <source>Settings</source>
       </trans-unit>
@@ -120,7 +123,7 @@
         <source>Voice search can be activated at any time by saying a wake phrase followed by descriptive terms used to find relevant information</source>
       </trans-unit>
       <trans-unit id="_tip_to_search_by_voice" datatype="html">
-        <source>Tip: To search by voice you will have to index some content. Go to <div class="edit-icon inline-icon"></div>Edit, select the desired text and then tap the <div class="tui-indexed inline-icon"></div> 'Index Text' button.</source>
+        <source>Tip: To search by voice you will have to index some content. Go to <div class="edit-icon inline-icn"></div>Edit, select the desired text and then tap the <div class="tui-indexed inline-icn"></div> 'Index Text' button.</source>
       </trans-unit>
     </body>
   </file>

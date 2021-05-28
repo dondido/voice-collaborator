@@ -23,13 +23,13 @@
     height: 22px;
     width: 22px;
 }
-.inline-icon {
+.inline-icn {
     display: inline-block;
     width: 24px;
     height: 24px;
     vertical-align: middle;
 }
-.tui-indexed.inline-icon {
+.tui-indexed.inline-icn {
     margin-top: -4px;
 }
 .pane .tui-editor-contents {
