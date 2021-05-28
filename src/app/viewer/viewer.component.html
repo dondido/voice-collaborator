@@ -1,8 +1,6 @@
 <div #viewer class="viewer"></div>
 <ng-container [ngSwitch]="output">
-    <div *ngSwitchCase="'index'" class="tip">
-        Tip: To search by voice you will have to index some content. Go to <div class="edit-icon inline-icon"></div>Edit, select the desired text and then tap the <div class="tui-indexed inline-icon"></div> 'Insert Text' icon.
-    </div>
+    <div *ngSwitchCase="'index'" class="tip" [innerHtml]="'_tip_to_search_by_voice' | translate"></div>
     <div *ngSwitchCase="'muted'" class="tip">...</div>
     <div *ngSwitchDefault class="output" [class.active]="activeMicClassName" >{{ transcript }}</div>
 </ng-container>
