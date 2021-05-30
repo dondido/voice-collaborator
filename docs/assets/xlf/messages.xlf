@@ -125,6 +125,27 @@
       <trans-unit id="_tip_to_search_by_voice" datatype="html">
         <source>Tip: To search by voice you will have to index some content. Go to <div class="edit-icon inline-icn"></div>Edit, select the desired text and then tap the <div class="tui-indexed inline-icn"></div> 'Index Text' button.</source>
       </trans-unit>
+      <trans-unit id="_web_audio_disabled" datatype="html">
+        <source>Your web audio input is disabled.</source>
+      </trans-unit>
+       <trans-unit id="_tap_here_to_enable" datatype="html">
+        <source>Tap here to enable it.</source>
+      </trans-unit>
+      <trans-unit id="_unable_to_access_microphone" datatype="html">
+        <source>Unable to access microphone, please check app settings.</source>
+      </trans-unit>
+      <trans-unit id="_default_content" datatype="html">
+        <source>### ~~This title is searchable by voice~~\n Hightlight some content and tap &quot;*Index text*&quot; to make it searchable.</source>
+      </trans-unit>
+      <trans-unit id="_tip_activate_voice_search" datatype="html">
+        <source>Tip: You can activate Voice Search by using any of the predefined \"wake\" phrases.</source>
+      </trans-unit>
+      <trans-unit id="_ok" datatype="html">
+        <source>OK</source>
+      </trans-unit>
+      <trans-unit id="_fine" datatype="html">
+        <source>Fine</source>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -39,5 +39,14 @@
   "_highlight_the_text": "Highlight the text that needs to searchable and select 'Index text'",
   "_go_to_preview": "Go to Preview",
   "_voice_search_can_be_activated": "Voice search can be activated at any time by saying a wake phrase followed by descriptive terms used to find relevant information",
-  "_tip_to_search_by_voice": "Tip: To search by voice you will have to index some content. Go to <div class=\"edit-icon inline-icn\"></div>Edit, select the desired text and then tap the <div class=\"tui-indexed inline-icn\"></div> 'Index Text' button."
+  "_tip_to_search_by_voice": "Tip: To search by voice you will have to index some content. Go to <div class=\"edit-icon inline-icn\"></div>Edit, select the desired text and then tap the <div class=\"tui-indexed inline-icn\"></div> 'Index Text' button.",
+  "_web_audio_disabled": "Your web audio input is disabled.",
+  "_tap_here_to_enable": "Tap here to enable it.",
+  "_unable_to_access_microphone": "Unable to access microphone, please check app settings.",
+  "_default_content": "### ~~This title is searchable by voice~~\n Hightlight some content and tap '*Index text*' to make it searchable.",
+  "_tip_activate_voice_search": "Tip: To activate Voice Search use any of the predifined \"wake\" phrases.",
+  "_no_tags": "Tip: To activate Voice Search you need to define \"wake\" phrases in the Settings section.",
+  "_ok": "OK",
+  "_Fine": "Fine"
+  
 }

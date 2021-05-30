@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="_info" datatype="html">
+        <!--source>Info</source-->
+        <source>Información</source>
+      </trans-unit>
+      <trans-unit id="_edit" datatype="html">
+        <!--source>Edit</source-->
+        <source>Editar</source>
+      </trans-unit>
+      <trans-unit id="_settings" datatype="html">
+        <!--source>Settings</source-->
+        <source>Ajustes</source>
+      </trans-unit>
+      <trans-unit id="_terms" datatype="html">
+        <!--source>Terms</source-->
+        <source>Condiciones</source>
+      </trans-unit>
+      <trans-unit id="_preview" datatype="html">
+        <!--source>Preview</source-->
+        <source>Avance</source>
+      </trans-unit>
+      <trans-unit id="_index_text" datatype="html">
+        <!--source>Index text</source-->
+        <source>Texto de índice</source>
+      </trans-unit>
+      <trans-unit id="_home" datatype="html">
+        <!--source>Home</source-->
+        <source>Casa</source>
+      </trans-unit>
+      <trans-unit id="_terms_and_conditions" datatype="html">
+        <!--source>Terms and conditions</source-->
+        <source>Términos y condiciones</source>
+      </trans-unit>
+      <trans-unit id="_p1" datatype="html">
+        <!--source>These terms and conditions ("Agreement") set forth the general terms and conditions of your use of the "Video Interview Voice Search" mobile application ("Mobile Application" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and this Mobile Application developer ("Operator", "we", "us" or "our"). By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Mobile Application and Services. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.</source-->
+        <source>Estos términos y condiciones (\"Acuerdo\") establecen los términos y condiciones generales de su uso de la aplicación móvil \"Búsqueda por voz de entrevistas en vídeo\" (\"Aplicación móvil\" o \"Servicio\") y cualquiera de sus productos y servicios relacionados (colectivamente, \"Servicios\"). Este Acuerdo es legalmente vinculante entre usted (\"Usuario\", \"usted\" o \"su\") y este desarrollador de aplicaciones móviles (\"Operador\", \"nosotros", \"nos\" o \"nuestro\"). Al acceder y utilizar la Aplicación y los Servicios móviles, usted reconoce que ha leído, comprendido y acepta regirse por los términos de este Acuerdo. Si está celebrando este Acuerdo en nombre de una empresa u otra entidad legal, declara que tiene la autoridad para vincular a dicha entidad a este Acuerdo, en cuyo caso los términos \"Usuario\", \"usted\" o \"su\" se referirán a dicha entidad. Si no tiene dicha autoridad, o si no está de acuerdo con los términos de este Acuerdo, no debe aceptar este Acuerdo y no puede acceder ni utilizar la Aplicación y los Servicios móviles. Usted reconoce que este Acuerdo es un contrato entre usted y el Operador, aunque es electrónico y no está firmado físicamente por usted, y rige su uso de la Aplicación y los Servicios móviles.</source>
+      </trans-unit>
+      <trans-unit id="_links_to_other_resources" datatype="html">
+        <!--source>Links to other resources</source-->
+        <source>Enlaces a otros recursos</source>
+      </trans-unit>
+      <trans-unit id="_p2" datatype="html">
+        <!--source>Although the Mobile Application and Services may link to other resources (such as websites, mobile applications, etc.), we are not, directly or indirectly, implying any approval, association, sponsorship, endorsement, or affiliation with any linked resource, unless specifically stated herein. We are not responsible for examining or evaluating, and we do not warrant the offerings of, any businesses or individuals or the content of their resources. We do not assume any responsibility or liability for the actions, products, services, and content of any other third parties. You should carefully review the legal statements and other conditions of use of any resource which you access through a link in the Mobile Application and Services. Your linking to any other off-site resources is at your own risk.</source-->
+        <source>Aunque la Aplicación y los Servicios móviles pueden vincularse a otros recursos (como sitios web, aplicaciones móviles, etc.), no estamos implicando, directa o indirectamente, ninguna aprobación, asociación, patrocinio, respaldo o afiliación con ningún recurso vinculado, a menos que específicamente establecido en este documento. No somos responsables de examinar o evaluar, y no garantizamos las ofertas de ninguna empresa o individuo o el contenido de sus recursos. No asumimos ninguna responsabilidad u obligación por las acciones, productos, servicios y contenido de otros terceros. Debe revisar cuidadosamente las declaraciones legales y otras condiciones de uso de cualquier recurso al que acceda a través de un enlace en la Aplicación y los Servicios móviles. Su vinculación a cualquier otro recurso fuera del sitio es bajo su propio riesgo.</source>
+      </trans-unit>
+      <trans-unit id="_prohibited_uses" datatype="html">
+        <!--source>Prohibited uses</source-->
+        <source>Usos prohibidos</source>
+      </trans-unit>
+      <trans-unit id="_p3" datatype="html">
+        <!--source>In addition to other terms as set forth in the Agreement, you are prohibited from using the Mobile Application and Services or Content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Mobile Application and Services, third party products and services, or the Internet; (h) to spam, phish, pharm, pretext, spider, crawl, or scrape; (i) for any obscene or immoral purpose; or (j) to interfere with or circumvent the security features of the Mobile Application and Services, third party products and services, or the Internet. We reserve the right to terminate your use of the Mobile Application and Services for violating any of the prohibited uses.</source-->
+        <source>Además de otros términos establecidos en el Acuerdo, se le prohíbe utilizar la Aplicación móvil y los Servicios o el Contenido: (a) para cualquier propósito ilegal; (b) solicitar a otros que realicen o participen en actos ilícitos; (c) violar cualquier reglamento, regla, ley u ordenanza local internacional, federal, provincial o estatal; (d) infringir o violar nuestros derechos de propiedad intelectual o los derechos de propiedad intelectual de terceros; (e) acosar, abusar, insultar, dañar, difamar, calumniar, menospreciar, intimidar o discriminar por motivos de género, orientación sexual, religión, etnia, raza, edad, nacionalidad o discapacidad; (f) enviar información falsa o engañosa; (g) cargar o transmitir virus o cualquier otro tipo de código malintencionado que se utilizará o se podrá utilizar de cualquier forma que afecte la funcionalidad o el funcionamiento de la Aplicación y los Servicios móviles, los productos y servicios de terceros o Internet; (h) enviar spam, phishing, pharm, pretext, spider, crawl o scrape; (i) para cualquier propósito obsceno o inmoral; o (j) interferir o eludir las características de seguridad de la Aplicación y los Servicios móviles, los productos y servicios de terceros o Internet. Nos reservamos el derecho de cancelar su uso de la Aplicación y los Servicios móviles por violar cualquiera de los usos prohibidos.</source>
+      </trans-unit>
+      <trans-unit id="_intellectual_property_rights" datatype="html">
+        <!--source>Intellectual property rights</source-->
+        <source>Derechos de propiedad intelectual</source>
+      </trans-unit>
+      <trans-unit id="_p4" datatype="html">
+        <!--source>"Intellectual Property Rights" means all present and future rights conferred by statute, common law or equity in or in relation to any copyright and related rights, trademarks, designs, patents, inventions, goodwill and the right to sue for passing off, rights to inventions, rights to use, and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, rights to claim priority from, such rights and all similar or equivalent rights or forms of protection and any other results of intellectual activity which subsist or will subsist now or in the future in any part of the world. This Agreement does not transfer to you any intellectual property owned by the Operator or third parties, and all rights, titles, and interests in and to such property will remain (as between the parties) solely with the Operator. All trademarks, service marks, graphics and logos used in connection with the Mobile Application and Services, are trademarks or registered trademarks of the Operator or its licensors. Other trademarks, service marks, graphics and logos used in connection with the Mobile Application and Services may be the trademarks of other third parties. Your use of the Mobile Application and Services grants you no right or license to reproduce or otherwise use any of the Operator or third party trademarks.</source-->
+        <source>\"Derechos de propiedad intelectual\" hace referencia a todos los derechos presentes y futuros conferidos por estatuto, derecho consuetudinario o equidad en o en relación con los derechos de autor y derechos afines, marcas comerciales, diseños, patentes, invenciones, buena voluntad y el derecho a demandar por transmitir los derechos invenciones, derechos de uso y todos los demás derechos de propiedad intelectual, en cada caso registrados o no registrados e incluyendo todas las aplicaciones y derechos para solicitar y ser otorgados, derechos para reclamar prioridad de dichos derechos y todos los derechos o formas de derechos similares o equivalentes protección y cualquier otro resultado de la actividad intelectual que subsista o subsistirá ahora o en el futuro en cualquier parte del mundo. Este Acuerdo no le transfiere ninguna propiedad intelectual propiedad del Operador o de terceros, y todos los derechos, títulos e intereses sobre dicha propiedad permanecerán (como entre las partes) únicamente con el Operador. Todas las marcas comerciales, marcas de servicio, gráficos y logotipos utilizados en relación con la Aplicación y los Servicios móviles son marcas comerciales o marcas comerciales registradas del Operador o sus licenciantes. Otras marcas comerciales, marcas de servicio, gráficos y logotipos utilizados en relación con la Aplicación y los Servicios móviles pueden ser marcas comerciales de terceros. El uso que haga de la Aplicación y los Servicios móviles no le otorga ningún derecho o licencia para reproducir o utilizar de otro modo las marcas comerciales del Operador o de terceros.</source>
+      </trans-unit>
+      <trans-unit id="_limitation_of_liability" datatype="html">
+        <!--source>Limitation of liability</source-->
+        <source>Limitación de responsabilidad</source>
+      </trans-unit>
+      <trans-unit id="_p5" datatype="html">
+        <!--source>To the fullest extent permitted by applicable law, in no event will the Operator, its affiliates, directors, officers, employees, agents, suppliers or licensors be liable to any person for any indirect, incidental, special, punitive, cover or consequential damages (including, without limitation, damages for lost profits, revenue, sales, goodwill, use of content, impact on business, business interruption, loss of anticipated savings, loss of business opportunity) however caused, under any theory of liability, including, without limitation, contract, tort, warranty, breach of statutory duty, negligence or otherwise, even if the liable party has been advised as to the possibility of such damages or could have foreseen such damages. To the maximum extent permitted by applicable law, the aggregate liability of the Operator and its affiliates, officers, employees, agents, suppliers and licensors relating to the services will be limited to an amount greater of one pound or any amounts actually paid in cash by you to the Operator for the prior one month period prior to the first event or occurrence giving rise to such liability. The limitations and exclusions also apply if this remedy does not fully compensate you for any losses or fails of its essential purpose.</source-->
+        <source>En la máxima medida permitida por la ley aplicable, en ningún caso el Operador, sus afiliados, directores, funcionarios, empleados, agentes, proveedores o otorgantes de licencias serán responsables ante cualquier persona por daños indirectos, incidentales, especiales, punitivos, de cobertura o consecuentes ( incluyendo, sin limitación, daños por lucro cesante, ingresos, ventas, buena voluntad, uso de contenido, impacto en el negocio, interrupción del negocio, pérdida de ahorros anticipados, pérdida de oportunidad de negocio) cualquiera que sea su causa, bajo cualquier teoría de responsabilidad, incluyendo, sin limitación , contrato, agravio, garantía, incumplimiento del deber legal, negligencia o de otro tipo, incluso si la parte responsable ha sido informada sobre la posibilidad de tales daños o podría haber previsto tales daños. En la medida máxima permitida por la ley aplicable, la responsabilidad total del Operador y sus afiliados, funcionarios, empleados, agentes, proveedores y otorgantes de licencias en relación con los servicios se limitará a un monto mayor de una libra o cualquier monto realmente pagado en efectivo por usted al Operador durante el período de un mes anterior al primer evento o suceso que dio lugar a dicha responsabilidad. Las limitaciones y exclusiones también se aplican si este recurso no lo compensa completamente por las pérdidas o no cumple con su propósito esencial.</source>
+      </trans-unit>
+      <trans-unit id="_indemnification" datatype="html">
+        <!--source>Indemnification</source-->
+        <source>Indemnización</source>
+      </trans-unit>
+      <trans-unit id="_p6" datatype="html">
+        <!--source>You agree to indemnify and hold the Operator and its affiliates, directors, officers, employees, agents, suppliers and licensors harmless from and against any liabilities, losses, damages or costs, including reasonable attorneys' fees, incurred in connection with or arising from any third party allegations, claims, actions, disputes, or demands asserted against any of them as a result of or relating to your Content, your use of the Mobile Application and Services or any willful misconduct on your part.</source-->
+        <source>Usted acepta indemnizar y eximir al Operador y a sus afiliados, directores, funcionarios, empleados, agentes, proveedores y otorgantes de licencias de y contra cualquier responsabilidad, pérdida, daño o costo, incluidos los honorarios razonables de abogados, incurridos en relación con o derivados de cualquier alegaciones, reclamos, acciones, disputas o demandas de terceros contra cualquiera de ellos como resultado o en relación con su Contenido, su uso de la Aplicación móvil y los Servicios o cualquier mala conducta intencional de su parte.</source>
+      </trans-unit>
+      <trans-unit id="_severability" datatype="html">
+        <!--source>Severability</source-->
+        <source>Divisibilidad</source>
+      </trans-unit>
+      <trans-unit id="_p7" datatype="html">
+        <!--source>All rights and restrictions contained in this Agreement may be exercised and shall be applicable and binding only to the extent that they do not violate any applicable laws and are intended to be limited to the extent necessary so that they will not render this Agreement illegal, invalid or unenforceable. If any provision or portion of any provision of this Agreement shall be held to be illegal, invalid or unenforceable by a court of competent jurisdiction, it is the intention of the parties that the remaining provisions or portions thereof shall constitute their agreement with respect to the subject matter hereof, and all such remaining provisions or portions thereof shall remain in full force and effect.</source-->
+        <source>Todos los derechos y restricciones contenidos en este Acuerdo pueden ejercerse y serán aplicables y vinculantes solo en la medida en que no violen ninguna ley aplicable y estén destinados a limitarse en la medida necesaria para que no hagan que este Acuerdo sea ilegal, inválido. o inaplicable. Si alguna disposición o parte de cualquier disposición de este Acuerdo se considera ilegal, inválida o inaplicable por un tribunal de jurisdicción competente, es la intención de las partes que las disposiciones restantes o partes de las mismas constituyan su acuerdo con respecto a la objeto del presente, y todas las disposiciones restantes o partes de las mismas permanecerán en pleno vigor y efecto.</source>
+      </trans-unit>
+      <trans-unit id="_dispute_resolution" datatype="html">
+        <!--source>Dispute resolution</source-->
+        <source>Resolución de conflictos</source>
+      </trans-unit>
+      <trans-unit id="_p8" datatype="html">
+        <!--source>The formation, interpretation, and performance of this Agreement and any disputes arising out of it shall be governed by the substantive and procedural laws of United Kingdom without regard to its rules on conflicts or choice of law and, to the extent applicable, the laws of United Kingdom. The exclusive jurisdiction and venue for actions related to the subject matter hereof shall be the courts located in United Kingdom, and you hereby submit to the personal jurisdiction of such courts. You hereby waive any right to a jury trial in any proceeding arising out of or related to this Agreement. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement.</source-->
+        <source>La formación, interpretación y ejecución de este Acuerdo y cualquier disputa que surja de él se regirá por las leyes sustantivas y procesales del Reino Unido sin tener en cuenta sus reglas sobre conflictos o elección de la ley y, en la medida de lo aplicable, las leyes de Reino Unido. La jurisdicción y el lugar exclusivos para las acciones relacionadas con el tema del presente serán los tribunales ubicados en el Reino Unido, y usted se somete a la jurisdicción personal de dichos tribunales. Por la presente, usted renuncia a cualquier derecho a un juicio con jurado en cualquier procedimiento que surja de o esté relacionado con este Acuerdo. La Convención de las Naciones Unidas sobre Contratos de Compraventa Internacional de Mercaderías no se aplica a este Acuerdo.</source>
+      </trans-unit>
+      <trans-unit id="_changes_and_amendments" datatype="html">
+        <!--source>Changes and amendments</source-->
+        <source>Cambios y enmiendas</source>
+      </trans-unit>
+      <trans-unit id="_p9" datatype="html">
+        <!--source>We reserve the right to modify this Agreement or its terms relating to the Mobile Application and Services at any time, effective upon posting of an updated version of this Agreement in the Mobile Application. When we do, we will revise the updated date at the bottom of this page. Continued use of the Mobile Application and Services after any such changes shall constitute your consent to such changes.</source-->
+        <source>Nos reservamos el derecho de modificar este Acuerdo o sus términos relacionados con la Aplicación y los Servicios móviles en cualquier momento, a partir de la publicación de una versión actualizada de este Acuerdo en la Aplicación móvil. Cuando lo hagamos, revisaremos la fecha de actualización en la parte inferior de esta página. El uso continuado de la Aplicación y los Servicios móviles después de dichos cambios constituirá su consentimiento para dichos cambios.</source>
+      </trans-unit>
+      <trans-unit id="_acceptance_of_these_terms" datatype="html">
+        <!--source>Acceptance of these terms</source-->
+        <source>Aceptación de estos términos</source>
+      </trans-unit>
+      <trans-unit id="_p10" datatype="html">
+        <!--source>You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Mobile Application and Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Mobile Application and Services.</source-->
+        <source>Usted reconoce que ha leído este Acuerdo y acepta todos sus términos y condiciones. Al acceder y utilizar la Aplicación y los Servicios móviles, usted acepta regirse por este Acuerdo. Si no acepta cumplir con los términos de este Acuerdo, no está autorizado para acceder o utilizar la Aplicación y los Servicios móviles.</source>
+      </trans-unit>
+      <trans-unit id="_create_a_new_document" datatype="html">
+        <!--source>Create a new document</source-->
+        <source>Crea un documento nuevo</source>
+      </trans-unit>
+      <trans-unit id="_recent_documents" datatype="html">
+        <!--source>Recent documents</source-->
+        <source>Documentos recientes</source>
+      </trans-unit>
+      <trans-unit id="_language" datatype="html">
+        <!--source>Language</source-->
+        <source>Idioma</source>
+      </trans-unit>
+      <trans-unit id="_wake_up_tags" datatype="html">
+        <!--source>Wake up tags</source-->
+        <source>Despertar etiquetas</source>
+      </trans-unit>
+      <trans-unit id="_how_to_get_started" datatype="html">
+        <!--source>How to get started</source-->
+        <source>Cómo empezar</source>
+      </trans-unit>
+      <trans-unit id="_go_to_settings" datatype="html">
+        <!--source>Go to Settings</source-->
+        <source>Ir a la configuración</source>
+      </trans-unit>
+      <trans-unit id="_add_wake_up_tags" datatype="html">
+        <!--source>Add wake up tags such as 'OK' or 'Alright'</source-->
+        <source>Agregue etiquetas de activación como \"Aceptar\" o \"Muy bien\"</source>
+      </trans-unit>
+      <trans-unit id="_go_to_home" datatype="html">
+        <!--source>Go to Home</source-->
+        <source>Ir a casa</source>
+      </trans-unit>
+      <trans-unit id="_select_create_a_new_document" datatype="html">
+        <!--source>Select 'Create a new document'</source-->
+        <source>Seleccione 'Crear un nuevo documento'</source>
+      </trans-unit>
+      <trans-unit id="_design_your_cheat_sheet" datatype="html">
+        <!--source>Design your cheat sheet in the markdown/wysiwyg editor</source-->
+        <source>Diseñe su hoja de trucos en el editor markdown / wysiwyg</source>
+      </trans-unit>
+      <trans-unit id="_highlight_the_text" datatype="html">
+        <!--source>Highlight the text that needs to searchable and select 'Index text'</source-->
+        <source>Resalte el texto que debe buscarse y seleccione 'Texto de índice'</source>
+      </trans-unit>
+      <trans-unit id="_go_to_preview" datatype="html">
+        <!--source>Go to Preview</source-->
+        <source>Ir a vista previa</source>
+      </trans-unit>
+      <trans-unit id="_voice_search_can_be_activated" datatype="html">
+        <!--source>Voice search can be activated at any time by saying a wake phrase followed by descriptive terms used to find relevant information</source-->
+        <source>La búsqueda por voz se puede activar en cualquier momento diciendo una frase de inicio seguida de términos descriptivos utilizados para encontrar información relevante.</source>
+      </trans-unit>
+      <trans-unit id="_tip_to_search_by_voice" datatype="html">
+        <source>Sugerencia: Para buscar por voz, tendrá que indexar algunos contenidos. Vaya a <div class =\"edit-icon inline-icn\"> </div> Editar, seleccione el texto deseado y luego presione <div class =\"tui-indexed inline-icn\"></div> 'Texto de índice' botón.</source>
+      </trans-unit>
+      <trans-unit id="_web_audio_disabled" datatype="html">
+        <!--source>Your web audio input is disabled.</source-->
+        <source>Su entrada de audio web está deshabilitada.</source>
+      </trans-unit>
+      <trans-unit id="_tap_here_to_enable" datatype="html">
+        <!--source>Tap here to enable it.</source-->
+        <source>Toque aquí para habilitarlo.</source>
+      </trans-unit>
+      <trans-unit id="_unable_to_access_microphone" datatype="html">
+        <!--source>Unable to access microphone, please check app settings.</source-->
+        <source>No se puede acceder al micrófono, verifique la configuración de la aplicación.</source>
+      </trans-unit>
+      <trans-unit id="_default_content" datatype="html">
+        <!--source>### ~~This title is searchable by voice~~\n Hightlight some content and tap "*Index text*" to make it searchable.</source-->
+        <source>### ~~ Este título se puede buscar por voz ~~ \ n Resalte algún contenido y toque \"* Texto de índice *\" para que se pueda buscar.</source>
+      </trans-unit>
+      <trans-unit id="_tip_activate_voice_search" datatype="html">
+        <!--source>Tip: You can activate Voice Search by using any of the predefined \"wake\" phrases.</source-->
+        <source>Sugerencia: Puede activar la búsqueda por voz usando cualquiera de las frases \"despertar \" predefinidas.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
