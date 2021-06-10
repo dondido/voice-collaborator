@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
 
+## Demo
+
+Demo can be found https://dondido.github.io/voice-collaborator/#/
+
 ## Synopsis
 
 This an Angular integration with Toast UI Editor (with both Markdown / WYSIWYG implementation). NGX-Translate internationalization library is used to define translations for the app content in different languages and switch between them easily.
