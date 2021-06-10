@@ -39,13 +39,16 @@
   "_highlight_the_text": "Markieren Sie den Text, der durchsucht werden soll, und wählen Sie \"Indextext\".",
   "_go_to_preview": "Gehen Sie zur Vorschau",
   "_voice_search_can_be_activated": "Die Sprachsuche kann jederzeit aktiviert werden, indem eine Weckphrase gefolgt von beschreibenden Begriffen zum Auffinden relevanter Informationen verwendet wird",
-  "_tip_to_search_by_voice": "Tipp: Um nach Sprache zu suchen, müssen Sie einige Inhalte indizieren. Gehen Sie zu <div class=/\"edit-icon inline-icn/\"> Bearbeiten, wählen Sie den gewünschten Text aus und tippen Sie dann auf <div class=/\"tui-indexed inline-icn/\"> 'Index Text' Taste.",
+  "_tip_to_search_by_voice": "Tipp:\n Um nach Sprache zu suchen, müssen Sie einige Inhalte indizieren. Gehen Sie zu <div class=/\"edit-icon inline-icn/\"> Bearbeiten, wählen Sie den gewünschten Text aus und tippen Sie dann auf <div class=/\"tui-indexed inline-icn/\"> 'Index Text' Taste.",
   "_web_audio_disabled": "Ihr Web-Audio-Eingang ist deaktiviert.",
   "_tap_here_to_enable": "Tippen Sie hier, um es zu aktivieren.",
   "_unable_to_access_microphone": "Kein Zugriff auf das Mikrofon möglich. Bitte überprüfen Sie die App-Einstellungen.",
   "_default_content": "### ~~Dieser Titel kann per Sprache durchsucht werden~~ \n Markieren Sie einige Inhalte und tippen Sie auf \"*Indextext*\", um ihn durchsuchbar zu machen.",
   "_tip_activate_voice_search": "Tipp: Sie können die Sprachsuche aktivieren, indem Sie eine der vordefinierten \"Wake\" - Phrasen verwenden.",
-  "_no_tags": "Tipp: Um die Sprachsuche zu aktivieren, müssen Sie im Abschnitt \"Einstellungen\" \"Wake\" - Phrasen definieren.",
+  "_no_tags": "Tipp:\n Um die Sprachsuche zu aktivieren, müssen Sie im Abschnitt \"Einstellungen\" \"Wake\" - Phrasen definieren.",
   "_ok": "OK",
-  "_fine": "Fein"
+  "_fine": "Fein",
+  "_start": "Start",
+  "_the_voice_search_engine_will_highlight": "Tipp:\n Die Sprachsuchmaschine hebt Schlüsselwörter hervor, die mit dem verwendeten Suchbegriff übereinstimmen, und scrollt das Textfragment in den Anzeigebereich des Fensters.",
+  "_turn_feedback_sounds_off": "Tipp:\n Deaktivieren Sie Feedback-Sounds. Wenn diese Einstellung aktiviert ist, spielt Voice Access Feedback-Sounds ab, z. B. wenn das Mikrofon zu hören beginnt oder wenn eine Fehlermeldung angezeigt wird."
 }

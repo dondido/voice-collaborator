@@ -39,12 +39,16 @@
   "_highlight_the_text": "Mettez en surbrillance le texte qui doit faire l'objet d'une recherche et sélectionnez 'Indexer le texte'",
   "_go_to_preview": "Aller à l'aperçu",
   "_voice_search_can_be_activated": "La recherche vocale peut être activée à tout moment en prononçant une phrase de réveil suivie de termes descriptifs utilisés pour trouver des informations pertinentes",
-  "_tip_to_search_by_voice": "Astuce : Pour effectuer une recherche vocale, vous devrez indexer certains contenus. Accédez à <div class=\"edit-icon inline-icn\"></div>Modifier, sélectionnez le texte souhaité, puis appuyez sur <div class=\"tui-indexed inline-icn\"></div> Bouton \"Indexer le texte\".",
+  "_tip_to_search_by_voice": "Astuce :\n Pour effectuer une recherche vocale, vous devrez indexer certains contenus. Accédez à <div class=\"edit-icon inline-icn\"></div>Modifier, sélectionnez le texte souhaité, puis appuyez sur <div class=\"tui-indexed inline-icn\"></div> Bouton \"Indexer le texte\".",
   "_web_audio_disabled": "Votre entrée audio Web est désactivée.",
   "_tap_here_to_enable": "Appuyez ici pour l'activer.",
   "_unable_to_access_microphone": "Impossible d'accéder au microphone, veuillez vérifier les paramètres de l'application.",
   "_default_content": "### ~~Ce titre est consultable vocalement~~ \n Mettez du contenu en surbrillance et appuyez sur '* Indexer le texte*' »' pour le rendre consultable.",
-  "_tip_activate_voice_search": "Astuce : vous pouvez activer la recherche vocale en utilisant l'une des phrases \"réveil\" prédéfinies.",
+  "_tip_activate_voice_search": "Astuce :\n vous pouvez activer la recherche vocale en utilisant l'une des phrases \"réveil\" prédéfinies.",
   "_ok": "d'accord",
-  "_fine": "Amende"
+  "_fine": "Amende",
+  "_start": "Démarrer",
+  "_the_voice_search_engine_will_highlight": "Astuce :\n Le moteur de recherche vocale mettra en évidence les mots-clés qui correspondent au terme de recherche utilisé et fera défiler le fragment de texte dans la partie de visualisation de la fenêtre.",
+  "_turn_feedback_sounds_off": "Conseil :\n Désactivez les retours sonores. Lorsque ce paramètre est activé, Voice Access émet des sons de retour, par exemple lorsque le microphone commence à écouter ou lorsqu'un message d'erreur s'affiche."
+
 }

@@ -39,13 +39,17 @@
   "_highlight_the_text": "Resalte el texto que debe buscarse y seleccione 'Texto de índice'",
   "_go_to_preview": "Ir a vista previa",
   "_voice_search_can_be_activated": "La búsqueda por voz se puede activar en cualquier momento diciendo una frase de inicio seguida de términos descriptivos utilizados para encontrar información relevante.",
-  "_tip_to_search_by_voice": "Sugerencia: Para buscar por voz, tendrá que indexar algunos contenidos. Vaya a <div class =\"edit-icon inline-icn\">  Editar, seleccione el texto deseado y luego presione <div class =\"tui-indexed inline-icn\"> 'Texto de índice' botón.",
+  "_tip_to_search_by_voice": "Sugerencia:\n Para buscar por voz, tendrá que indexar algunos contenidos. Vaya a <div class =\"edit-icon inline-icn\">  Editar, seleccione el texto deseado y luego presione <div class =\"tui-indexed inline-icn\"> 'Texto de índice' botón.",
   "_web_audio_disabled": "Su entrada de audio web está deshabilitada.",
   "_tap_here_to_enable": "Toque aquí para habilitarlo.",
   "_unable_to_access_microphone": "No se puede acceder al micrófono, verifique la configuración de la aplicación.",
   "_default_content": "### ~~ Este título se puede buscar por voz ~~ \\ n Resalte algún contenido y toque \"* Texto de índice *\" para que se pueda buscar.",
   "_tip_activate_voice_search": "Sugerencia: Puede activar la búsqueda por voz usando cualquiera de las frases \"despertar \" predefinidas.",
-  "_no_tags": "Sugerencia: Para activar la búsqueda por voz, debe definir frases de \"activación\" en la sección Configuración.",
+  "_no_tags": "Sugerencia:\n Para activar la búsqueda por voz, debe definir frases de \"activación\" en la sección Configuración.",
   "_ok": "OK",
-  "_fine": "Multa"
+  "_fine": "Multa",
+  "_start": "Comienzo",
+  "_the_voice_search_engine_will_highlight": "Consejo:\n El motor de búsqueda por voz resaltará las palabras clave que coincidan con el término de búsqueda utilizado y desplazará el fragmento de texto hacia la parte de visualización de la ventana.",
+  "_turn_feedback_sounds_off": "Sugerencia:\n Desactive los sonidos de los comentarios. Cuando esta configuración está activada, Voice Access reproduce sonidos de retroalimentación, como cuando el micrófono comienza a escuchar o cuando se muestra un mensaje de error."
+
 }
