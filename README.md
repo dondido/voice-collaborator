@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo
 
-Demo can be found https://dondido.github.io/voice-collaborator/#/
+Demo can be found at https://dondido.github.io/voice-collaborator/#/
 
 ## Synopsis
 
