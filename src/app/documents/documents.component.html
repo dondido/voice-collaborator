@@ -1,0 +1,18 @@
+<h1 class="page-title" translate>_recent_documents</h1>
+<div class="main">
+    <ul class="documents">
+        <li class="document-item"><a class="pane blank-document" routerLink="/edit/{{blankId}}" translate>_create_a_new_document</a></li>
+        <li *ngFor="let document of documents" class="document-item">
+            <a class="nav-link edit-icon" routerLink="/edit/{{document.id}}"></a>
+            <button class="delete-document-button" type="button" (click)="deleteDocument(document.id)"></button>
+            <a #pane class="pane" routerLink="/view/{{document.id}}"></a>
+        </li>
+    </ul>
+</div>
+<nav class="nav" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+    <ul class="nav-items">
+        <li class="nav-item"><a class="nav-link info-icon" routerLink="/info" title="Info" translate>_info</a></li>
+        <li class="nav-item"><a class="nav-link settings-icon" routerLink="/settings" title="Settings" translate>_settings</a></li>
+        <li class="nav-item"><a class="nav-link policy-icon" routerLink="/terms" title="Terms" translate>_terms</a></li>
+    </ul>
+</nav>

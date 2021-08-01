@@ -1,0 +1,28 @@
+<div class="tips-overlay" [ngSwitch]="output" *ngIf="output">
+    <div *ngSwitchCase="'tags'" class="tip">
+        <span translate>_no_tags</span>
+        <a class="nav-link settings-icon" routerLink="/settings" translate>_settings</a>
+    </div>
+    <div *ngSwitchCase="'muted'" class="tip">
+        <span translate>_web_audio_disabled</span>
+        <button type="button" class="link-like-button" (click)="enableAudio()" translate>_tap_here_to_enable</button>
+    </div>
+    <div *ngSwitchCase="'index'" class="tip">
+        <span [innerHtml]="'_tip_to_search_by_voice' | translate"></span>
+        <a class="nav-link edit-icon" routerLink="/edit/{{id}}" translate>_edit</a>
+    </div>
+    <div *ngSwitchCase="'mobile'" class="tip">
+        <span translate>_turn_feedback_sounds_off</span>
+        <button class="close-tips-overlay-button" type="button" (click)="listen()" translate>_start</button>
+    </div>
+    <div *ngSwitchDefault class="tip">
+        <span translate>_the_voice_search_engine_will_highlight</span>
+        <button class="close-tips-overlay-button" type="button" (click)="listen()" translate>_start</button>
+    </div>
+</div>
+<div #viewer class="viewer"></div>
+<div class="output" [class.active]="activeMicClassName" >{{ transcript }}</div>
+<app-nav>
+    <li class="nav-item"><a class="nav-link edit-icon" routerLink="/edit/{{id}}" translate>_edit</a></li>
+</app-nav>
+

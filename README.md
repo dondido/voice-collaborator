@@ -14,7 +14,6 @@ This an Angular integration with Toast UI Editor (with both Markdown / WYSIWYG i
 
 It uses xlf-google-translate to translate the manually created xlf file with google translate. The translated file is than converted to JSON using the following online coversion tool http://converter.webtranslateit.com/.
 
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

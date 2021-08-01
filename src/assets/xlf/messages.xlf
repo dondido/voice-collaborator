@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="_info" datatype="html">
+        <source>Info</source>
+      </trans-unit>
+      <trans-unit id="_edit" datatype="html">
+        <source>Edit</source>
+      </trans-unit>
+      <trans-unit id="_settings" datatype="html">
+        <source>Settings</source>
+      </trans-unit>
+      <trans-unit id="_terms" datatype="html">
+        <source>Terms</source>
+      </trans-unit>
+      <trans-unit id="_preview" datatype="html">
+        <source>Preview</source>
+      </trans-unit>
+      <trans-unit id="_index_text" datatype="html">
+        <source>Index text</source>
+      </trans-unit>
+      <trans-unit id="_home" datatype="html">
+        <source>Home</source>
+      </trans-unit>
+      <trans-unit id="_terms_and_conditions" datatype="html">
+        <source>Terms and conditions</source>
+      </trans-unit>
+      <trans-unit id="_p1" datatype="html">
+        <source>These terms and conditions (&quot;Agreement&quot;) set forth the general terms and conditions of your use of the &quot;Video Interview Voice Search&quot; mobile application (&quot;Mobile Application&quot; or &quot;Service&quot;) and any of its related products and services (collectively, &quot;Services&quot;). This Agreement is legally binding between you (&quot;User&quot;, &quot;you&quot; or &quot;your&quot;) and this Mobile Application developer (&quot;Operator&quot;, &quot;we&quot;, &quot;us&quot; or &quot;our&quot;). By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms &quot;User&quot;, &quot;you&quot; or &quot;your&quot; shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Mobile Application and Services. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.</source>
+      </trans-unit>
+      <trans-unit id="_links_to_other_resources" datatype="html">
+        <source>Links to other resources</source>
+      </trans-unit>
+      <trans-unit id="_p2" datatype="html">
+        <source>Although the Mobile Application and Services may link to other resources (such as websites, mobile applications, etc.), we are not, directly or indirectly, implying any approval, association, sponsorship, endorsement, or affiliation with any linked resource, unless specifically stated herein. We are not responsible for examining or evaluating, and we do not warrant the offerings of, any businesses or individuals or the content of their resources. We do not assume any responsibility or liability for the actions, products, services, and content of any other third parties. You should carefully review the legal statements and other conditions of use of any resource which you access through a link in the Mobile Application and Services. Your linking to any other off-site resources is at your own risk.</source>
+      </trans-unit>
+      <trans-unit id="_prohibited_uses" datatype="html">
+        <source>Prohibited uses</source>
+      </trans-unit>
+      <trans-unit id="_p3" datatype="html">
+        <source>In addition to other terms as set forth in the Agreement, you are prohibited from using the Mobile Application and Services or Content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Mobile Application and Services, third party products and services, or the Internet; (h) to spam, phish, pharm, pretext, spider, crawl, or scrape; (i) for any obscene or immoral purpose; or (j) to interfere with or circumvent the security features of the Mobile Application and Services, third party products and services, or the Internet. We reserve the right to terminate your use of the Mobile Application and Services for violating any of the prohibited uses.</source>
+      </trans-unit>
+      <trans-unit id="_intellectual_property_rights" datatype="html">
+        <source>Intellectual property rights</source>
+      </trans-unit>
+      <trans-unit id="_p4" datatype="html">
+        <source>&quot;Intellectual Property Rights&quot; means all present and future rights conferred by statute, common law or equity in or in relation to any copyright and related rights, trademarks, designs, patents, inventions, goodwill and the right to sue for passing off, rights to inventions, rights to use, and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, rights to claim priority from, such rights and all similar or equivalent rights or forms of protection and any other results of intellectual activity which subsist or will subsist now or in the future in any part of the world. This Agreement does not transfer to you any intellectual property owned by the Operator or third parties, and all rights, titles, and interests in and to such property will remain (as between the parties) solely with the Operator. All trademarks, service marks, graphics and logos used in connection with the Mobile Application and Services, are trademarks or registered trademarks of the Operator or its licensors. Other trademarks, service marks, graphics and logos used in connection with the Mobile Application and Services may be the trademarks of other third parties. Your use of the Mobile Application and Services grants you no right or license to reproduce or otherwise use any of the Operator or third party trademarks.</source>
+      </trans-unit>
+      <trans-unit id="_limitation_of_liability" datatype="html">
+        <source>Limitation of liability</source>
+      </trans-unit>
+      <trans-unit id="_p5" datatype="html">
+        <source>To the fullest extent permitted by applicable law, in no event will the Operator, its affiliates, directors, officers, employees, agents, suppliers or licensors be liable to any person for any indirect, incidental, special, punitive, cover or consequential damages (including, without limitation, damages for lost profits, revenue, sales, goodwill, use of content, impact on business, business interruption, loss of anticipated savings, loss of business opportunity) however caused, under any theory of liability, including, without limitation, contract, tort, warranty, breach of statutory duty, negligence or otherwise, even if the liable party has been advised as to the possibility of such damages or could have foreseen such damages. To the maximum extent permitted by applicable law, the aggregate liability of the Operator and its affiliates, officers, employees, agents, suppliers and licensors relating to the services will be limited to an amount greater of one pound or any amounts actually paid in cash by you to the Operator for the prior one month period prior to the first event or occurrence giving rise to such liability. The limitations and exclusions also apply if this remedy does not fully compensate you for any losses or fails of its essential purpose.</source>
+      </trans-unit>
+      <trans-unit id="_indemnification" datatype="html">
+        <source>Indemnification</source>
+      </trans-unit>
+      <trans-unit id="_p6" datatype="html">
+        <source>You agree to indemnify and hold the Operator and its affiliates, directors, officers, employees, agents, suppliers and licensors harmless from and against any liabilities, losses, damages or costs, including reasonable attorneys&apos; fees, incurred in connection with or arising from any third party allegations, claims, actions, disputes, or demands asserted against any of them as a result of or relating to your Content, your use of the Mobile Application and Services or any willful misconduct on your part.</source>
+      </trans-unit>
+      <trans-unit id="_severability" datatype="html">
+        <source>Severability</source>
+      </trans-unit>
+      <trans-unit id="_p7" datatype="html">
+        <source>All rights and restrictions contained in this Agreement may be exercised and shall be applicable and binding only to the extent that they do not violate any applicable laws and are intended to be limited to the extent necessary so that they will not render this Agreement illegal, invalid or unenforceable. If any provision or portion of any provision of this Agreement shall be held to be illegal, invalid or unenforceable by a court of competent jurisdiction, it is the intention of the parties that the remaining provisions or portions thereof shall constitute their agreement with respect to the subject matter hereof, and all such remaining provisions or portions thereof shall remain in full force and effect.</source>
+      </trans-unit>
+      <trans-unit id="_dispute_resolution" datatype="html">
+        <source>Dispute resolution</source>
+      </trans-unit>
+      <trans-unit id="_p8" datatype="html">
+        <source>The formation, interpretation, and performance of this Agreement and any disputes arising out of it shall be governed by the substantive and procedural laws of United Kingdom without regard to its rules on conflicts or choice of law and, to the extent applicable, the laws of United Kingdom. The exclusive jurisdiction and venue for actions related to the subject matter hereof shall be the courts located in United Kingdom, and you hereby submit to the personal jurisdiction of such courts. You hereby waive any right to a jury trial in any proceeding arising out of or related to this Agreement. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement.</source>
+      </trans-unit>
+      <trans-unit id="_changes_and_amendments" datatype="html">
+        <source>Changes and amendments</source>
+      </trans-unit>
+      <trans-unit id="_p9" datatype="html">
+        <source>We reserve the right to modify this Agreement or its terms relating to the Mobile Application and Services at any time, effective upon posting of an updated version of this Agreement in the Mobile Application. When we do, we will revise the updated date at the bottom of this page. Continued use of the Mobile Application and Services after any such changes shall constitute your consent to such changes.</source>
+      </trans-unit>
+      <trans-unit id="_acceptance_of_these_terms" datatype="html">
+        <source>Acceptance of these terms</source>
+      </trans-unit>
+      <trans-unit id="_p10" datatype="html">
+        <source>You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Mobile Application and Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Mobile Application and Services.</source>
+      </trans-unit>
+      <trans-unit id="_create_a_new_document" datatype="html">
+        <source>Create a new document</source>
+      </trans-unit>
+      <trans-unit id="_recent_documents" datatype="html">
+        <source>Recent documents</source>
+      </trans-unit>
+      <trans-unit id="_language" datatype="html">
+        <source>Language</source>
+      </trans-unit>
+      <trans-unit id="_wake_up_tags" datatype="html">
+        <source>Wake up tags</source>
+      </trans-unit>
+      <trans-unit id="_how_to_get_started" datatype="html">
+        <source>How to get started</source>
+      </trans-unit>
+      <trans-unit id="_go_to_settings" datatype="html">
+        <source>Go to Settings</source>
+      </trans-unit>
+      <trans-unit id="_add_wake_up_tags" datatype="html">
+        <source>Add wake up tags such as 'OK' or 'Alright'</source>
+      </trans-unit>
+      <trans-unit id="_go_to_home" datatype="html">
+        <source>Go to Home</source>
+      </trans-unit>
+       <trans-unit id="_select_create_a_new_document" datatype="html">
+        <source>Select 'Create a new document'</source>
+      </trans-unit>
+      <trans-unit id="_design_your_cheat_sheet" datatype="html">
+        <source>Design your cheat sheet in the markdown/wysiwyg editor</source>
+      </trans-unit>
+        <trans-unit id="_highlight_the_text" datatype="html">
+        <source>Highlight the text that needs to searchable and select 'Index text'</source>
+      </trans-unit>
+      <trans-unit id="_go_to_preview" datatype="html">
+        <source>Go to Preview</source>
+      </trans-unit>
+      <trans-unit id="_voice_search_can_be_activated" datatype="html">
+        <source>Voice search can be activated at any time by saying a wake phrase followed by descriptive terms used to find relevant information</source>
+      </trans-unit>
+      <trans-unit id="_tip_to_search_by_voice" datatype="html">
+        <source>Tip: To search by voice you will have to index some content. Go to <div class="edit-icon inline-icn"></div>Edit, select the desired text and then tap the <div class="tui-indexed inline-icn"></div> 'Index Text' button.</source>
+      </trans-unit>
+      <trans-unit id="_web_audio_disabled" datatype="html">
+        <source>Your web audio input is disabled.</source>
+      </trans-unit>
+       <trans-unit id="_tap_here_to_enable" datatype="html">
+        <source>Tap here to enable it.</source>
+      </trans-unit>
+      <trans-unit id="_unable_to_access_microphone" datatype="html">
+        <source>Unable to access microphone, please check app settings.</source>
+      </trans-unit>
+      <trans-unit id="_default_content" datatype="html">
+        <source>### ~~This title is searchable by voice~~\n Hightlight some content and tap &quot;*Index text*&quot; to make it searchable.</source>
+      </trans-unit>
+      <trans-unit id="_tip_activate_voice_search" datatype="html">
+        <source>Tip: You can activate Voice Search by using any of the predefined \"wake\" phrases.</source>
+      </trans-unit>
+      <trans-unit id="_ok" datatype="html">
+        <source>OK</source>
+      </trans-unit>
+      <trans-unit id="_fine" datatype="html">
+        <source>Fine</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
